@@ -3,41 +3,76 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to My GitHub Pages</title>
+    <title>My GitHub Pages</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
+        * {
             margin: 0;
             padding: 0;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            background-color: #f4f4f9;
+            box-sizing: border-box;
         }
-        header {
-            font-size: 2em;
-            margin-bottom: 20px;
-            color: #333;
+        body {
+            display: flex;
+            height: 100vh;
+            font-family: 'Arial', sans-serif;
+            color: #fff;
+            background: linear-gradient(to right, #2b5876, #4e4376);
         }
         nav {
-            font-size: 1.2em;
+            width: 250px;
+            background-color: #1e1e2f;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.3);
+        }
+        nav h2 {
+            font-size: 1.5em;
+            margin-bottom: 20px;
+            color: #f4f4f9;
         }
         nav a {
-            color: #007acc;
             text-decoration: none;
-            margin: 0 10px;
+            color: #b3c0d1;
+            font-size: 1.1em;
+            margin: 10px 0;
+            padding: 5px 10px;
+            border-radius: 4px;
+            transition: background-color 0.3s ease, color 0.3s ease;
         }
         nav a:hover {
-            text-decoration: underline;
+            background-color: #4e4376;
+            color: #fff;
+        }
+        main {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 20px;
+        }
+        main h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            color: #fff;
+        }
+        main p {
+            font-size: 1.2em;
+            color: #d1d4db;
         }
     </style>
 </head>
 <body>
-    <header>Welcome to My GitHub Pages</header>
     <nav>
-        <a href="https://padmanaban55.github.io/CarbohydrateContent/">Visit 'Carbohydrates in food' app</a>
+        <h2>Apps</h2>
+        <a href="https://padmanaban55.github.io/CarbohydrateContent/">Visit Subdirectory Page</a>
     </nav>
+    <main>
+        <div>
+            <h1>Welcome!</h1>
+            <p>Site under construction</p>
+        </div>
+    </main>
 </body>
 </html>
