@@ -1,0 +1,55 @@
+library(shiny)
+library(bslib)
+library(ggplot2)
+library(readr)
+
+# Sample data
+food_data <- read_csv("Carbohydrates.csv")
+
+ui <- page_sidebar(
+  
+  title = "Find the carbohydrate content of food items",
+  theme = bs_theme(bootswatch = "minty"),
+  
+  # Sidebar with dropdown menu
+  sidebar = sidebar(
+    selectInput("Food", 
+                "Select Food Item:",
+                choices = food_data$Food,
+                selected = food_data$Food[1])
+  ),
+  
+  # Main content
+  card(
+    card_header("Carbohydrate Content"),
+    plotOutput("carb_plot")
+  )
+)
+
+server <- function(input, output) {
+  
+  # Create the bar plot
+  output$carb_plot <- renderPlot({
+    # Filter data for selected food
+    selected_food <- food_data[food_data$Food == input$Food, ]
+    
+    ggplot(selected_food, aes(x = reorder(Carbohydrate,-Quantity), y = Quantity, fill=Carbohydrate)) +
+      geom_bar(stat = "identity") +
+      labs(
+        title = paste("Carbohydrate Content in", input$Food),
+        x = "Type of carbohydrate",
+        y = "Quantity (g per 100g)",
+        caption = "Data source: Indian Food Composition table, ICMR, NIN"
+      ) +
+      theme_minimal() +
+      theme(legend.position = "none") +
+      theme(
+        plot.title = element_text(size = 20, face = "bold"),
+        axis.text = element_text(size = 16),
+        axis.title = element_text(size = 18)
+        
+      )
+  })
+}
+
+shinyApp(ui = ui, server = server)
