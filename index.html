@@ -3,80 +3,106 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Pages</title>
+    <title>Padmanaban V. | Personal Website</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
         body {
-            display: flex;
-            height: 100vh;
-            font-family: 'Arial', sans-serif;
-            color: #fff;
-            background: linear-gradient(to right, #2b5876, #4e4376);
+            background-color: #0A2342; /* Deep space navy blue */
+            color: #E6E6FA; /* Starfleet uniform light lavender */
+            font-family: 'Courier New', monospace;
         }
-        nav {
-            width: 250px;
-            background-color: #1e1e2f;
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.3);
+        .card {
+            background-color: #1F4788; /* Federation blue */
+            border: 2px solid #00CED1; /* Teal accent like viewscreen graphics */
+            box-shadow: 0 0 15px rgba(0, 206, 209, 0.3);
         }
-        nav h2 {
-            font-size: 1.5em;
-            margin-bottom: 20px;
-            color: #f4f4f9;
+        .nav-link {
+            color: #00CED1; /* Teal communication signal color */
+            transition: all 0.3s ease;
         }
-        nav a {
-            text-decoration: none;
-            color: #b3c0d1;
-            font-size: 1.1em;
-            margin: 10px 0;
-            padding: 5px 10px;
-            border-radius: 4px;
-            transition: background-color 0.3s ease, color 0.3s ease;
+        .nav-link:hover {
+            color: #7FFFD4; /* Bright aquamarine on hover */
+            text-shadow: 0 0 10px rgba(127, 255, 212, 0.5);
         }
-        nav a:hover {
-            background-color: #4e4376;
-            color: #fff;
+        .starfleet-button {
+            background-color: #00CED1;
+            color: #0A2342;
+            transition: all 0.3s ease;
         }
-        main {
-            flex: 1;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-            padding: 20px;
-        }
-        main h1 {
-            font-size: 2.5em;
-            margin-bottom: 20px;
-            color: #fff;
-        }
-        main p {
-            font-size: 1.2em;
-            color: #d1d4db;
+        .starfleet-button:hover {
+            background-color: #7FFFD4;
+            transform: scale(1.05);
         }
     </style>
 </head>
-<body>
-    <nav>
-        <h2>Apps</h2>
-        <a href="https://padmanaban55.github.io/CarbohydrateContent/">Find out the carbohydrate content in Indian food</a>
-        <a href="https://padmanaban55.github.io/GLUT_Transporters/">Glucose trasporters</a>
-        <a href="https://padmanaban-v.shinyapps.io/ShinyStat/">Basic statistics</a>
-        <h2>Research</h2>
-        <a href="https://scholar.google.com/citations?user=2o2f7RsAAAAJ&hl=en"> Publications </a>
-    </nav>
-    <main>
-        <div>
-            <h1>Welcome!</h1>
-            <p>Site under construction</p>
-        </div>
+<body class="min-h-screen flex flex-col">
+    <header class="bg-opacity-50 p-4 shadow-md">
+        <nav class="container mx-auto flex justify-between items-center">
+            <h1 class="text-2xl font-bold text-teal-200">Padmanaban V.</h1>
+            <div class="space-x-4">
+                <a href="#home" class="nav-link">Home</a>
+                <a href="#apps" class="nav-link">Apps</a>
+                <a href="#about" class="nav-link">About</a>
+                <a href="#research" class="nav-link">Research</a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container mx-auto px-4 py-8 flex-grow">
+        <section id="home" class="mb-8">
+            <div class="card p-6 rounded-lg shadow-lg">
+                <h2 class="text-3xl font-bold mb-4">Welcome!</h2>
+                <p></p>
+            </div>
+        </section>
+
+        <section id="apps" class="mb-8">
+            <h2 class="text-2xl font-bold mb-4 text-teal-200">My Apps</h2>
+            <div class="grid md:grid-cols-3 gap-4">
+                <div class="card p-4 rounded-lg">
+                    <h3 class="font-bold mb-2">Carbohydrate Content</h3>
+                    <p class="mb-4">Find out the carbohydrate content in Indian food</p>
+                    <a href="https://padmanaban55.github.io/CarbohydrateContent/" 
+                       class="starfleet-button px-3 py-1 rounded">
+                        View App
+                    </a>
+                </div>
+                <div class="card p-4 rounded-lg">
+                    <h3 class="font-bold mb-2">Glucose Transporters</h3>
+                    <p class="mb-4">Glucose transporters</p>
+                    <a href="https://padmanaban55.github.io/GLUT_Transporters/" 
+                       class="starfleet-button px-3 py-1 rounded">
+                        View App
+                    </a>
+                </div>
+                <div class="card p-4 rounded-lg">
+                    <h3 class="font-bold mb-2">Basic Statistics</h3>
+                    <p class="mb-4">Basic statistics</p>
+                    <a href="https://padmanaban-v.shinyapps.io/ShinyStat/" 
+                       class="starfleet-button px-3 py-1 rounded">
+                        View App
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="mb-8">
+            <h2 class="text-2xl font-bold mb-4 text-teal-200">About Me</h2>
+            <p> Padmanaban is an Assocaite Professor of Biochemistry at Christian Medical College, Vellore and teaches Medical Biochemistry for medical, nursing and allied health undergraduate students and MD trainees.
+                His research focuses on diabetes mellitus in South Asians through metabolic functional studies and genetics. </p>
+            <div class="card p-6 rounded-lg shadow-lg">
+                <div class="flex space-x-4">
+                    <a href="https://scholar.google.com/citations?user=2o2f7RsAAAAJ&hl=en" 
+                       class="starfleet-button px-3 py-1 rounded">
+                        Publications
+                    </a>
+                </div>
+            </div>
+        </section>
     </main>
+
+    <footer class="bg-opacity-50 p-4 text-center">
+        <p class="text-teal-300">© 2024 Padmanaban V. | Site under construction</p>
+    </footer>
 </body>
 </html>
