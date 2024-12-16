@@ -35,7 +35,3 @@ Occurs due to genetic defect in the enzyme Galactose 1-phosphate uridyltransfera
 - "Galactokinase deficiency: <select class='webex-select'><option value='blank'></option><option value='answer'>Cataract</option><option value=''>Hypoglycaemia</option><option value=''>Hemolysis and anemia</option><option value=''>Pentosuria</option><option value=''>Hyperglycaemia</option></select>"
 
 - "G6PD deficiency: <select class='webex-select'><option value='blank'></option><option value=''>Cataract</option><option value=''>Hypoglycaemia</option><option value='answer'>Hemolysis and anemia</option><option value=''>Pentosuria</option><option value=''>Hyperglycaemia</option></select>"
-
-
-<div class='webex-radiogroup' id='radio_XSJJXTABID'><label><input type="radio" autocomplete="off" name="radio_XSJJXTABID" value=""></input> <span>Primary active transport</span></label><label><input type="radio" autocomplete="off" name="radio_XSJJXTABID" value=""></input> <span>Passive diffusion</span></label><label><input type="radio" autocomplete="off" name="radio_XSJJXTABID" value="answer"></input> <span>Secondary active transport</span></label><label><input type="radio" autocomplete="off" name="radio_XSJJXTABID" value=""></input> <span>Faciliated diffusion</span></label></div>
-

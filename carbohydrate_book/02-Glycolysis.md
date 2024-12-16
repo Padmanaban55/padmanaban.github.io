@@ -75,7 +75,7 @@ Sodium fluoride is an inhibitor of the enzyme enolase and this is added to blood
 1. Glycolysis is regulated by allosteric modification of the enzyme
 
 
-<div class='webex-radiogroup' id='radio_JUMPTZONNX'><label><input type="radio" autocomplete="off" name="radio_JUMPTZONNX" value=""></input> <span>Enolase</span></label><label><input type="radio" autocomplete="off" name="radio_JUMPTZONNX" value=""></input> <span>Aldolase</span></label><label><input type="radio" autocomplete="off" name="radio_JUMPTZONNX" value="answer"></input> <span>Phosphofructokinase</span></label><label><input type="radio" autocomplete="off" name="radio_JUMPTZONNX" value=""></input> <span>Lactate dehydrogenase</span></label></div>
+<div class='webex-radiogroup' id='radio_KRKXDSAOIM'><label><input type="radio" autocomplete="off" name="radio_KRKXDSAOIM" value=""></input> <span>Enolase</span></label><label><input type="radio" autocomplete="off" name="radio_KRKXDSAOIM" value=""></input> <span>Aldolase</span></label><label><input type="radio" autocomplete="off" name="radio_KRKXDSAOIM" value="answer"></input> <span>Phosphofructokinase</span></label><label><input type="radio" autocomplete="off" name="radio_KRKXDSAOIM" value=""></input> <span>Lactate dehydrogenase</span></label></div>
 
 
 2. The main function of glycolysis is to produce energy: <select class='webex-select'><option value='blank'></option><option value='answer'>TRUE</option><option value=''>FALSE</option></select>
@@ -83,7 +83,7 @@ Sodium fluoride is an inhibitor of the enzyme enolase and this is added to blood
 3. In Anerobic glycolysis, NADH is reoxidized to NAD by
 
 
-<div class='webex-radiogroup' id='radio_CECOELRQRI'><label><input type="radio" autocomplete="off" name="radio_CECOELRQRI" value=""></input> <span>TCA cycle</span></label><label><input type="radio" autocomplete="off" name="radio_CECOELRQRI" value=""></input> <span>Oxidative phosphorylation</span></label><label><input type="radio" autocomplete="off" name="radio_CECOELRQRI" value=""></input> <span>Phosphofructokinase</span></label><label><input type="radio" autocomplete="off" name="radio_CECOELRQRI" value="answer"></input> <span>Lactate dehydrogenase</span></label></div>
+<div class='webex-radiogroup' id='radio_OEMXWVIDCI'><label><input type="radio" autocomplete="off" name="radio_OEMXWVIDCI" value=""></input> <span>TCA cycle</span></label><label><input type="radio" autocomplete="off" name="radio_OEMXWVIDCI" value=""></input> <span>Oxidative phosphorylation</span></label><label><input type="radio" autocomplete="off" name="radio_OEMXWVIDCI" value=""></input> <span>Phosphofructokinase</span></label><label><input type="radio" autocomplete="off" name="radio_OEMXWVIDCI" value="answer"></input> <span>Lactate dehydrogenase</span></label></div>
 
 
 
@@ -91,7 +91,7 @@ Sodium fluoride is an inhibitor of the enzyme enolase and this is added to blood
 
 
 
-<div class='webex-radiogroup' id='radio_UGBCRTYRVT'><label><input type="radio" autocomplete="off" name="radio_UGBCRTYRVT" value=""></input> <span>TCA cycle</span></label><label><input type="radio" autocomplete="off" name="radio_UGBCRTYRVT" value=""></input> <span>Oxidative phosphorylation</span></label><label><input type="radio" autocomplete="off" name="radio_UGBCRTYRVT" value="answer"></input> <span>Glycolysis</span></label><label><input type="radio" autocomplete="off" name="radio_UGBCRTYRVT" value=""></input> <span>Oxidation of fatty acids</span></label></div>
+<div class='webex-radiogroup' id='radio_IJLOAYMXDL'><label><input type="radio" autocomplete="off" name="radio_IJLOAYMXDL" value=""></input> <span>TCA cycle</span></label><label><input type="radio" autocomplete="off" name="radio_IJLOAYMXDL" value=""></input> <span>Oxidative phosphorylation</span></label><label><input type="radio" autocomplete="off" name="radio_IJLOAYMXDL" value="answer"></input> <span>Glycolysis</span></label><label><input type="radio" autocomplete="off" name="radio_IJLOAYMXDL" value=""></input> <span>Oxidation of fatty acids</span></label></div>
 
 
 

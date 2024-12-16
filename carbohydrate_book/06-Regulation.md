@@ -47,19 +47,19 @@ Epinephrine, cortisol, thyroxine, and growth hormone are other hormones that can
 1. Which of the following is an effect of insulin?
 
 
-<div class='webex-radiogroup' id='radio_DLWLFCSYUS'><label><input type="radio" autocomplete="off" name="radio_DLWLFCSYUS" value=""></input> <span>Increased glycogenolysis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_DLWLFCSYUS" value=""></input> <span>Increased gluconeogenesis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_DLWLFCSYUS" value="answer"></input> <span>Increased glucose uptake in adipose tissue and muscle</span></label><label><input type="radio" autocomplete="off" name="radio_DLWLFCSYUS" value=""></input> <span>Decreased glycolysis in liver</span></label></div>
+<div class='webex-radiogroup' id='radio_ATECFNCWAN'><label><input type="radio" autocomplete="off" name="radio_ATECFNCWAN" value=""></input> <span>Increased glycogenolysis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_ATECFNCWAN" value=""></input> <span>Increased gluconeogenesis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_ATECFNCWAN" value="answer"></input> <span>Increased glucose uptake in adipose tissue and muscle</span></label><label><input type="radio" autocomplete="off" name="radio_ATECFNCWAN" value=""></input> <span>Decreased glycolysis in liver</span></label></div>
 
 
 2. Which of the following is an effect of glucagon?
 
 
-<div class='webex-radiogroup' id='radio_TLHTGTUJOE'><label><input type="radio" autocomplete="off" name="radio_TLHTGTUJOE" value=""></input> <span>Decreased gluconeogenesis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_TLHTGTUJOE" value="answer"></input> <span>Increased glycogenolysis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_TLHTGTUJOE" value=""></input> <span>Increased glucose uptake in adipose tissue and muscle</span></label><label><input type="radio" autocomplete="off" name="radio_TLHTGTUJOE" value=""></input> <span>Increased glycolysis in liver</span></label></div>
+<div class='webex-radiogroup' id='radio_GPXJZIRJSJ'><label><input type="radio" autocomplete="off" name="radio_GPXJZIRJSJ" value=""></input> <span>Decreased gluconeogenesis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_GPXJZIRJSJ" value="answer"></input> <span>Increased glycogenolysis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_GPXJZIRJSJ" value=""></input> <span>Increased glucose uptake in adipose tissue and muscle</span></label><label><input type="radio" autocomplete="off" name="radio_GPXJZIRJSJ" value=""></input> <span>Increased glycolysis in liver</span></label></div>
 
 
 3. Which of the following is an effect of epinephrine?
 
 
-<div class='webex-radiogroup' id='radio_LCISEWJREZ'><label><input type="radio" autocomplete="off" name="radio_LCISEWJREZ" value=""></input> <span>Decreased gluconeogenesis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_LCISEWJREZ" value="answer"></input> <span>Increased glycogenolysis in muscle</span></label><label><input type="radio" autocomplete="off" name="radio_LCISEWJREZ" value=""></input> <span>Decreased glycogenolysis in liver</span></label></div>
+<div class='webex-radiogroup' id='radio_OMNUSCPCAD'><label><input type="radio" autocomplete="off" name="radio_OMNUSCPCAD" value=""></input> <span>Decreased gluconeogenesis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_OMNUSCPCAD" value="answer"></input> <span>Increased glycogenolysis in muscle</span></label><label><input type="radio" autocomplete="off" name="radio_OMNUSCPCAD" value=""></input> <span>Decreased glycogenolysis in liver</span></label></div>
 
 
 

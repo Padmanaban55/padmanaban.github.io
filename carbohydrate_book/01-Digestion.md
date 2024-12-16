@@ -138,13 +138,13 @@ Certain carbohydrate and non-carbohydrates present in plant food that are indige
 3. Consumption of which of the following carbohydrate helps in preventing constipation??
 
 
-<div class='webex-radiogroup' id='radio_WCMGIZMUCS'><label><input type="radio" autocomplete="off" name="radio_WCMGIZMUCS" value=""></input> <span>Starch</span></label><label><input type="radio" autocomplete="off" name="radio_WCMGIZMUCS" value="answer"></input> <span>Cellulose</span></label><label><input type="radio" autocomplete="off" name="radio_WCMGIZMUCS" value=""></input> <span>Heparin</span></label><label><input type="radio" autocomplete="off" name="radio_WCMGIZMUCS" value=""></input> <span>Glycogen</span></label></div>
+<div class='webex-radiogroup' id='radio_LULRKNHYAF'><label><input type="radio" autocomplete="off" name="radio_LULRKNHYAF" value=""></input> <span>Starch</span></label><label><input type="radio" autocomplete="off" name="radio_LULRKNHYAF" value="answer"></input> <span>Cellulose</span></label><label><input type="radio" autocomplete="off" name="radio_LULRKNHYAF" value=""></input> <span>Heparin</span></label><label><input type="radio" autocomplete="off" name="radio_LULRKNHYAF" value=""></input> <span>Glycogen</span></label></div>
 
 
 4. Absorption of glucose at the apical (luminal) side of the enterocyte is through
 
 
-<div class='webex-radiogroup' id='radio_QCJMMJTHQB'><label><input type="radio" autocomplete="off" name="radio_QCJMMJTHQB" value=""></input> <span>Primary active transport</span></label><label><input type="radio" autocomplete="off" name="radio_QCJMMJTHQB" value=""></input> <span>Passive diffusion</span></label><label><input type="radio" autocomplete="off" name="radio_QCJMMJTHQB" value="answer"></input> <span>Secondary active transport</span></label><label><input type="radio" autocomplete="off" name="radio_QCJMMJTHQB" value=""></input> <span>Faciliated diffusion</span></label></div>
+<div class='webex-radiogroup' id='radio_CIKLKKJZBG'><label><input type="radio" autocomplete="off" name="radio_CIKLKKJZBG" value=""></input> <span>Primary active transport</span></label><label><input type="radio" autocomplete="off" name="radio_CIKLKKJZBG" value=""></input> <span>Passive diffusion</span></label><label><input type="radio" autocomplete="off" name="radio_CIKLKKJZBG" value="answer"></input> <span>Secondary active transport</span></label><label><input type="radio" autocomplete="off" name="radio_CIKLKKJZBG" value=""></input> <span>Faciliated diffusion</span></label></div>
 
 
 

@@ -65,13 +65,13 @@ A common genetic disoder in India and other tropical regions of the world, chara
 1. One of the function of the pentose phosphate pathway is to produce
 
 
-<div class='webex-radiogroup' id='radio_MVFULZRWFY'><label><input type="radio" autocomplete="off" name="radio_MVFULZRWFY" value=""></input> <span>NADH</span></label><label><input type="radio" autocomplete="off" name="radio_MVFULZRWFY" value="answer"></input> <span>NADPH</span></label><label><input type="radio" autocomplete="off" name="radio_MVFULZRWFY" value=""></input> <span>ATP</span></label><label><input type="radio" autocomplete="off" name="radio_MVFULZRWFY" value=""></input> <span>FADH2</span></label></div>
+<div class='webex-radiogroup' id='radio_GDGTOINEHH'><label><input type="radio" autocomplete="off" name="radio_GDGTOINEHH" value=""></input> <span>NADH</span></label><label><input type="radio" autocomplete="off" name="radio_GDGTOINEHH" value="answer"></input> <span>NADPH</span></label><label><input type="radio" autocomplete="off" name="radio_GDGTOINEHH" value=""></input> <span>ATP</span></label><label><input type="radio" autocomplete="off" name="radio_GDGTOINEHH" value=""></input> <span>FADH2</span></label></div>
 
 
 
 1. Which of the following is **NOT** a function of NADPH?
 
 
-<div class='webex-radiogroup' id='radio_GZOTSUHNAI'><label><input type="radio" autocomplete="off" name="radio_GZOTSUHNAI" value="answer"></input> <span>Providing reducing equivalents for gluconeogenesis</span></label><label><input type="radio" autocomplete="off" name="radio_GZOTSUHNAI" value=""></input> <span>Reductive biosynthesis of steroids</span></label><label><input type="radio" autocomplete="off" name="radio_GZOTSUHNAI" value=""></input> <span>Reduction of glutathione</span></label><label><input type="radio" autocomplete="off" name="radio_GZOTSUHNAI" value=""></input> <span>Synthesis of Nitric oxide</span></label></div>
+<div class='webex-radiogroup' id='radio_WPZLHSUURN'><label><input type="radio" autocomplete="off" name="radio_WPZLHSUURN" value="answer"></input> <span>Providing reducing equivalents for gluconeogenesis</span></label><label><input type="radio" autocomplete="off" name="radio_WPZLHSUURN" value=""></input> <span>Reductive biosynthesis of steroids</span></label><label><input type="radio" autocomplete="off" name="radio_WPZLHSUURN" value=""></input> <span>Reduction of glutathione</span></label><label><input type="radio" autocomplete="off" name="radio_WPZLHSUURN" value=""></input> <span>Synthesis of Nitric oxide</span></label></div>
 
 
