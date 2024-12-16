@@ -3,45 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Padmanaban V. | Personal Website</title>
+    <title>Padmanaban V. | Academic Profile</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
     <style>
         body {
-            background-color: #0A2342; /* Deep space navy blue */
-            color: #E6E6FA; /* Starfleet uniform light lavender */
-            font-family: 'Courier New', monospace;
+            background-color: #F4F6F7; /* Soft off-white */
+            color: #2C3E50; /* Deep slate gray */
+            font-family: 'Open Sans', sans-serif;
+            line-height: 1.6;
         }
-        .card {
-            background-color: #1F4788; /* Federation blue */
-            border: 2px solid #00CED1; /* Teal accent like viewscreen graphics */
-            box-shadow: 0 0 15px rgba(0, 206, 209, 0.3);
+        .academic-card {
+            background-color: #FFFFFF;
+            border: 1px solid #BDC3C7;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+        }
+        .academic-card:hover {
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        }
+        h1, h2, h3 {
+            font-family: 'Merriweather', serif;
+            color: #34495E;
         }
         .nav-link {
-            color: #00CED1; /* Teal communication signal color */
-            transition: all 0.3s ease;
+            color: #2980B9;
+            font-weight: 600;
+            text-decoration: none;
+            transition: color 0.3s ease;
         }
         .nav-link:hover {
-            color: #7FFFD4; /* Bright aquamarine on hover */
-            text-shadow: 0 0 10px rgba(127, 255, 212, 0.5);
+            color: #3498DB;
+            text-decoration: underline;
         }
-        .starfleet-button {
-            background-color: #00CED1;
-            color: #0A2342;
+        .academic-button {
+            background-color: #2980B9;
+            color: #FFFFFF;
             transition: all 0.3s ease;
         }
-        .starfleet-button:hover {
-            background-color: #7FFFD4;
-            transform: scale(1.05);
+        .academic-button:hover {
+            background-color: #3498DB;
+            transform: translateY(-2px);
         }
     </style>
 </head>
-<body class="min-h-screen flex flex-col">
-    <header class="bg-opacity-50 p-4 shadow-md">
+<body class="min-h-screen flex flex-col bg-gray-100">
+    <header class="bg-white shadow-md p-4">
         <nav class="container mx-auto flex justify-between items-center">
-            <h1 class="text-2xl font-bold text-teal-200">Padmanaban V.</h1>
+            <h1 class="text-2xl font-bold text-gray-800">Padmanaban V.</h1>
             <div class="space-x-4">
                 <a href="#home" class="nav-link">Home</a>
                 <a href="#apps" class="nav-link">Apps</a>
+                <a href="#books" class="nav-link">Books</a>
                 <a href="#about" class="nav-link">About</a>
                 <a href="#research" class="nav-link">Research</a>
             </div>
@@ -50,69 +63,85 @@
 
     <main class="container mx-auto px-4 py-8 flex-grow">
         <section id="home" class="mb-8">
-            <div class="card p-6 rounded-lg shadow-lg">
-                <h2 class="text-3xl font-bold mb-4">Welcome!</h2>
+            <div class="academic-card p-6 rounded-lg">
+                <h2 class="text-3xl font-bold mb-4 text-gray-800">Welcome!</h2>
+                <p class="text-gray-600"></p>
             </div>
         </section>
 
         <section id="apps" class="mb-8">
-            <h2 class="text-2xl font-bold mb-4 text-teal-200">My Apps</h2>
+            <h2 class="text-2xl font-bold mb-4 text-gray-800">My Applications</h2>
             <div class="grid md:grid-cols-3 gap-4">
-                <div class="card p-4 rounded-lg">
-                    <h3 class="font-bold mb-2">Carbohydrate Content</h3>
-                    <p class="mb-4">Find out the carbohydrate content in Indian food</p>
+                <div class="academic-card p-4 rounded-lg">
+                    <h3 class="font-bold mb-2 text-gray-800">Carbohydrate Content</h3>
+                    <p class="mb-4 text-gray-600">Find out the carbohydrate content in Indian food</p>
                     <a href="https://padmanaban55.github.io/CarbohydrateContent/" 
-                       class="starfleet-button px-3 py-1 rounded">
+                       class="academic-button px-3 py-1 rounded inline-block">
                         View App
                     </a>
                 </div>
-                <div class="card p-4 rounded-lg">
-                    <h3 class="font-bold mb-2">Glucose Transporters</h3>
-                    <p class="mb-4">Glucose transporters</p>
+                <div class="academic-card p-4 rounded-lg">
+                    <h3 class="font-bold mb-2 text-gray-800">Glucose Transporters</h3>
+                    <p class="mb-4 text-gray-600">Glucose transporters</p>
                     <a href="https://padmanaban55.github.io/GLUT_Transporters/" 
-                       class="starfleet-button px-3 py-1 rounded">
+                       class="academic-button px-3 py-1 rounded inline-block">
                         View App
                     </a>
                 </div>
-                <div class="card p-4 rounded-lg">
-                    <h3 class="font-bold mb-2">Basic Statistics</h3>
-                    <p class="mb-4">Basic statistics</p>
+                <div class="academic-card p-4 rounded-lg">
+                    <h3 class="font-bold mb-2 text-gray-800">Basic Statistics</h3>
+                    <p class="mb-4 text-gray-600">Statistical analysis tools</p>
                     <a href="https://padmanaban-v.shinyapps.io/ShinyStat/" 
-                       class="starfleet-button px-3 py-1 rounded">
+                       class="academic-button px-3 py-1 rounded inline-block">
                         View App
                     </a>
                 </div>
             </div>
         </section>
 
+        <section id="books" class="mb-8">
+            <h2 class="text-2xl font-bold mb-4 text-gray-800">Books and Resources</h2>
+            <div class="academic-card p-4 rounded-lg">
+                <div class="mb-4">
+                    <h3 class="font-bold text-gray-800">Lecture notes on carbohydrate metabolism</h3>
+                    <p class="text-gray-600 mb-2"></p>
+                    <a href="https://padmanaban55.github.io/carbohydrate_book/" 
+                       class="academic-button px-3 py-1 rounded inline-block">
+                        Access Resource
+                    </a>
+                </div>
+                <p class="text-gray-500 italic"></p>
+            </div>
+        </section>
+
         <section id="about" class="mb-8">
-            <h2 class="text-2xl font-bold mb-4 text-teal-200">About Me</h2>
-            <div class="card p-6 rounded-lg shadow-lg">
+            <h2 class="text-2xl font-bold mb-4 text-gray-800">About Me</h2>
+            <div class="academic-card p-6 rounded-lg">
                 <p class="mb-4">
-                    <a href="https://www.biochemistrycmcvellore.in/staff/padmanaban-v" class="text-teal-200 hover:underline">
+                    <a href="https://www.biochemistrycmcvellore.in/staff/padmanaban-v" class="text-blue-600 hover:underline">
                         I am an Associate Professor of Biochemistry at Christian Medical College, Vellore.
                     </a> My primary role involves teaching Medical Biochemistry to medical, nursing, and allied health undergraduate students, as well as MD trainees.
                 </p>
-                <p>
+                <p class="text-gray-600">
                     My research is primarily focused on investigating diabetes mellitus in South Asian populations, employing metabolic functional studies and genetic research.
                 </p>
             </div>
         </section>
 
         <section id="research" class="mb-8">
-            <h2 class="text-2xl font-bold mb-4 text-teal-200">Research Work</h2>  
-            <div class="card p-4 rounded-lg">
+            <h2 class="text-2xl font-bold mb-4 text-gray-800">Research Work</h2>  
+            <div class="academic-card p-4 rounded-lg">
                 <a href="https://scholar.google.com/citations?user=2o2f7RsAAAAJ&hl=en" 
-                   class="starfleet-button px-3 py-1 rounded">
+                   class="academic-button px-3 py-1 rounded inline-block">
                     View Publications
                 </a>
             </div>
         </section>
     </main>
 
-    <footer class="bg-opacity-50 p-4 text-center">
-        <p class="text-teal-300">
-            © 2024 Padmanaban V. | Site under construction | 
+    <footer class="bg-white p-4 text-center shadow-md">
+        <p class="text-gray-600">
+            © 2024 Padmanaban V. | Academic Portfolio
         </p>
     </footer>
 </body>
