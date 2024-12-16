@@ -21,7 +21,7 @@ Lactose is present in milk and milk containing products.
 
 Fructose is present in honey and fruits.
 
-![](Images/Fruit.jpg){width=50%, fig.align='center'}
+![](Images/Fruit.jpg){width=50%}
 
 
 
@@ -29,14 +29,14 @@ Fructose is present in honey and fruits.
 
 Sucrose is present in sugar and fruits.
 
-![](Images/Sugar.jpg){width=50%,fig.align='center'}
+![](Images/Sugar.jpg){width=50%}
 
 
 ### Cellulose {-}
 
 Cellulose and other dietary fibres are present in green leafy vegetables, whole grains, and fruits.
 
-![](Images/Fibre.jpg){width=50%,fig.align='center'}
+![](Images/Fibre.jpg){width=50%}
 
 [Explore carbohydrate content in Indian food](padmanaban55.github.io/CarbohydrateContent)
 
@@ -106,7 +106,7 @@ GLUT family of transporters are involved in facilitated diffusion of glucose and
 Oral rehydration solution is a combination of glucose and sodium used to treat dehydration (loss of water from body). Presence of glucose aids in the absorption of sodium via SGLT-1. Absorption of sodium is accompanied by absorption of water to maintain osmotic equilibrium. This results in more efficient absorption of water. 
 
 ![](Images/ORS.png){width=60%, height=400}
-
+[^1]
 
 ### Lactose intolerane
 
@@ -138,16 +138,16 @@ Certain carbohydrate and non-carbohydrates present in plant food that are indige
 3. Consumption of which of the following carbohydrate helps in preventing constipation??
 
 
-<div class='webex-radiogroup' id='radio_BMVFRQTYEE'><label><input type="radio" autocomplete="off" name="radio_BMVFRQTYEE" value=""></input> <span>Starch</span></label><label><input type="radio" autocomplete="off" name="radio_BMVFRQTYEE" value="answer"></input> <span>Cellulose</span></label><label><input type="radio" autocomplete="off" name="radio_BMVFRQTYEE" value=""></input> <span>Heparin</span></label><label><input type="radio" autocomplete="off" name="radio_BMVFRQTYEE" value=""></input> <span>Glycogen</span></label></div>
+<div class='webex-radiogroup' id='radio_MKCHSOWPSM'><label><input type="radio" autocomplete="off" name="radio_MKCHSOWPSM" value=""></input> <span>Starch</span></label><label><input type="radio" autocomplete="off" name="radio_MKCHSOWPSM" value="answer"></input> <span>Cellulose</span></label><label><input type="radio" autocomplete="off" name="radio_MKCHSOWPSM" value=""></input> <span>Heparin</span></label><label><input type="radio" autocomplete="off" name="radio_MKCHSOWPSM" value=""></input> <span>Glycogen</span></label></div>
 
 
 4. Absorption of glucose at the apical (luminal) side of the enterocyte is through
 
 
-<div class='webex-radiogroup' id='radio_OUIUTLAIRC'><label><input type="radio" autocomplete="off" name="radio_OUIUTLAIRC" value=""></input> <span>Primary active transport</span></label><label><input type="radio" autocomplete="off" name="radio_OUIUTLAIRC" value=""></input> <span>Passive diffusion</span></label><label><input type="radio" autocomplete="off" name="radio_OUIUTLAIRC" value="answer"></input> <span>Secondary active transport</span></label><label><input type="radio" autocomplete="off" name="radio_OUIUTLAIRC" value=""></input> <span>Faciliated diffusion</span></label></div>
+<div class='webex-radiogroup' id='radio_PLDMNPIVHK'><label><input type="radio" autocomplete="off" name="radio_PLDMNPIVHK" value=""></input> <span>Primary active transport</span></label><label><input type="radio" autocomplete="off" name="radio_PLDMNPIVHK" value=""></input> <span>Passive diffusion</span></label><label><input type="radio" autocomplete="off" name="radio_PLDMNPIVHK" value="answer"></input> <span>Secondary active transport</span></label><label><input type="radio" autocomplete="off" name="radio_PLDMNPIVHK" value=""></input> <span>Faciliated diffusion</span></label></div>
 
 
 
 
-
+[^1]:Made by Dr.Monica Peter
 

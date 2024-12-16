@@ -45,7 +45,7 @@ Glycolysis and gluconeogenesis are reciprocally regulated. This is achieved by a
 1. Which of the following is NOT a substrate for gluconeogenesis?
 
 
-<div class='webex-radiogroup' id='radio_AASABCQVEH'><label><input type="radio" autocomplete="off" name="radio_AASABCQVEH" value="answer"></input> <span>Acetyl-CoA</span></label><label><input type="radio" autocomplete="off" name="radio_AASABCQVEH" value=""></input> <span>Lactate</span></label><label><input type="radio" autocomplete="off" name="radio_AASABCQVEH" value=""></input> <span>Glycerol</span></label><label><input type="radio" autocomplete="off" name="radio_AASABCQVEH" value=""></input> <span>Alanine</span></label></div>
+<div class='webex-radiogroup' id='radio_DDBINRZJRL'><label><input type="radio" autocomplete="off" name="radio_DDBINRZJRL" value="answer"></input> <span>Acetyl-CoA</span></label><label><input type="radio" autocomplete="off" name="radio_DDBINRZJRL" value=""></input> <span>Lactate</span></label><label><input type="radio" autocomplete="off" name="radio_DDBINRZJRL" value=""></input> <span>Glycerol</span></label><label><input type="radio" autocomplete="off" name="radio_DDBINRZJRL" value=""></input> <span>Alanine</span></label></div>
 
 
 

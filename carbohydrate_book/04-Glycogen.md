@@ -93,7 +93,7 @@ The clinical features of Glycogen storage diseases include hepatomegaly (enlarge
 1. Muscle glycogen cannot contribute to the blood glucose because of the absence of which of the following enzyme in muscle?
 
 
-<div class='webex-radiogroup' id='radio_VNXXWILXEX'><label><input type="radio" autocomplete="off" name="radio_VNXXWILXEX" value="answer"></input> <span>Glucose 6-phosphatase</span></label><label><input type="radio" autocomplete="off" name="radio_VNXXWILXEX" value=""></input> <span>Glucokinase</span></label><label><input type="radio" autocomplete="off" name="radio_VNXXWILXEX" value=""></input> <span>Hexokinase</span></label><label><input type="radio" autocomplete="off" name="radio_VNXXWILXEX" value=""></input> <span>Phosphoglucomutase</span></label></div>
+<div class='webex-radiogroup' id='radio_JWPOZKUPQG'><label><input type="radio" autocomplete="off" name="radio_JWPOZKUPQG" value="answer"></input> <span>Glucose 6-phosphatase</span></label><label><input type="radio" autocomplete="off" name="radio_JWPOZKUPQG" value=""></input> <span>Glucokinase</span></label><label><input type="radio" autocomplete="off" name="radio_JWPOZKUPQG" value=""></input> <span>Hexokinase</span></label><label><input type="radio" autocomplete="off" name="radio_JWPOZKUPQG" value=""></input> <span>Phosphoglucomutase</span></label></div>
 
 
 2. Match the hormone with its effect on glycogen metabolism

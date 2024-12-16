@@ -6,8 +6,10 @@ Blood glucose level is maintained within this narrow range by processes that uti
 
 
 ![](Images/feeding.png){width=70%, height=400}
+[^2]
 
 ![](Images/fasting.png){width=70%, height=400}
+[^2]
 
 These processes are regulated by the peptide hormones insulin and glucagon./
 
@@ -45,19 +47,19 @@ Epinephrine, cortisol, thyroxine, and growth hormone are other hormones that can
 1. Which of the following is an effect of insulin?
 
 
-<div class='webex-radiogroup' id='radio_CJOHCDXGEB'><label><input type="radio" autocomplete="off" name="radio_CJOHCDXGEB" value=""></input> <span>Increased glycogenolysis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_CJOHCDXGEB" value=""></input> <span>Increased gluconeogenesis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_CJOHCDXGEB" value="answer"></input> <span>Increased glucose uptake in adipose tissue and muscle</span></label><label><input type="radio" autocomplete="off" name="radio_CJOHCDXGEB" value=""></input> <span>Decreased glycolysis in liver</span></label></div>
+<div class='webex-radiogroup' id='radio_CIVYEHBAZD'><label><input type="radio" autocomplete="off" name="radio_CIVYEHBAZD" value=""></input> <span>Increased glycogenolysis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_CIVYEHBAZD" value=""></input> <span>Increased gluconeogenesis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_CIVYEHBAZD" value="answer"></input> <span>Increased glucose uptake in adipose tissue and muscle</span></label><label><input type="radio" autocomplete="off" name="radio_CIVYEHBAZD" value=""></input> <span>Decreased glycolysis in liver</span></label></div>
 
 
 2. Which of the following is an effect of glucagon?
 
 
-<div class='webex-radiogroup' id='radio_VNUJHLAFEP'><label><input type="radio" autocomplete="off" name="radio_VNUJHLAFEP" value=""></input> <span>Decreased gluconeogenesis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_VNUJHLAFEP" value="answer"></input> <span>Increased glycogenolysis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_VNUJHLAFEP" value=""></input> <span>Increased glucose uptake in adipose tissue and muscle</span></label><label><input type="radio" autocomplete="off" name="radio_VNUJHLAFEP" value=""></input> <span>Increased glycolysis in liver</span></label></div>
+<div class='webex-radiogroup' id='radio_YVVMFNROFA'><label><input type="radio" autocomplete="off" name="radio_YVVMFNROFA" value=""></input> <span>Decreased gluconeogenesis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_YVVMFNROFA" value="answer"></input> <span>Increased glycogenolysis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_YVVMFNROFA" value=""></input> <span>Increased glucose uptake in adipose tissue and muscle</span></label><label><input type="radio" autocomplete="off" name="radio_YVVMFNROFA" value=""></input> <span>Increased glycolysis in liver</span></label></div>
 
 
 3. Which of the following is an effect of epinephrine?
 
 
-<div class='webex-radiogroup' id='radio_ITKBZRKCYI'><label><input type="radio" autocomplete="off" name="radio_ITKBZRKCYI" value=""></input> <span>Decreased gluconeogenesis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_ITKBZRKCYI" value="answer"></input> <span>Increased glycogenolysis in muscle</span></label><label><input type="radio" autocomplete="off" name="radio_ITKBZRKCYI" value=""></input> <span>Decreased glycogenolysis in liver</span></label></div>
+<div class='webex-radiogroup' id='radio_CRFBRLXEGP'><label><input type="radio" autocomplete="off" name="radio_CRFBRLXEGP" value=""></input> <span>Decreased gluconeogenesis in liver</span></label><label><input type="radio" autocomplete="off" name="radio_CRFBRLXEGP" value="answer"></input> <span>Increased glycogenolysis in muscle</span></label><label><input type="radio" autocomplete="off" name="radio_CRFBRLXEGP" value=""></input> <span>Decreased glycogenolysis in liver</span></label></div>
 
 
 
@@ -66,4 +68,4 @@ Epinephrine, cortisol, thyroxine, and growth hormone are other hormones that can
 
 
 
-
+[^2]:Made by Dr.Monica Peter
