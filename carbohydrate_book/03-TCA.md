@@ -32,7 +32,7 @@ The enzymes citrate synthase (release of CoA from Acetyl-CoA), isocitrate dehydr
 1. The reactions that replenish intermediates of TCA cycle are called
 
 
-<div class='webex-radiogroup' id='radio_OERRZUCUQQ'><label><input type="radio" autocomplete="off" name="radio_OERRZUCUQQ" value=""></input> <span>Anabolic reactions</span></label><label><input type="radio" autocomplete="off" name="radio_OERRZUCUQQ" value=""></input> <span>Amphibolic reactions</span></label><label><input type="radio" autocomplete="off" name="radio_OERRZUCUQQ" value=""></input> <span>Catabolic reactions</span></label><label><input type="radio" autocomplete="off" name="radio_OERRZUCUQQ" value="answer"></input> <span>Anaplerotic reactions</span></label></div>
+<div class='webex-radiogroup' id='radio_NXMDUBTRPK'><label><input type="radio" autocomplete="off" name="radio_NXMDUBTRPK" value=""></input> <span>Anabolic reactions</span></label><label><input type="radio" autocomplete="off" name="radio_NXMDUBTRPK" value=""></input> <span>Amphibolic reactions</span></label><label><input type="radio" autocomplete="off" name="radio_NXMDUBTRPK" value=""></input> <span>Catabolic reactions</span></label><label><input type="radio" autocomplete="off" name="radio_NXMDUBTRPK" value="answer"></input> <span>Anaplerotic reactions</span></label></div>
 
 
 

@@ -73,7 +73,7 @@ Glucose and galactose are absorbed by enterocytes at the apical surface through 
 Sodium potassium ATPase located at the basolateral surface of the eneterocytes create a concentration gradient of sodium across the apical surface by pumping sodium out at the basolateral side. Sodium is transported through SGLT-1 along the concentration gradient (higher concentration of sodium in the lumen of intestine to lower concentration of sodium inside the eneterocytes). However, SGLT-1 couples the transport of sodium with transport of glucose across the apical surface against it's concentration gradient. This process is illustrated below.
 
 ![](Images/SGLT1.png){width=60%, height=400}
-
+[^1]
 
 
 
@@ -138,13 +138,13 @@ Certain carbohydrate and non-carbohydrates present in plant food that are indige
 3. Consumption of which of the following carbohydrate helps in preventing constipation??
 
 
-<div class='webex-radiogroup' id='radio_MKCHSOWPSM'><label><input type="radio" autocomplete="off" name="radio_MKCHSOWPSM" value=""></input> <span>Starch</span></label><label><input type="radio" autocomplete="off" name="radio_MKCHSOWPSM" value="answer"></input> <span>Cellulose</span></label><label><input type="radio" autocomplete="off" name="radio_MKCHSOWPSM" value=""></input> <span>Heparin</span></label><label><input type="radio" autocomplete="off" name="radio_MKCHSOWPSM" value=""></input> <span>Glycogen</span></label></div>
+<div class='webex-radiogroup' id='radio_WCMGIZMUCS'><label><input type="radio" autocomplete="off" name="radio_WCMGIZMUCS" value=""></input> <span>Starch</span></label><label><input type="radio" autocomplete="off" name="radio_WCMGIZMUCS" value="answer"></input> <span>Cellulose</span></label><label><input type="radio" autocomplete="off" name="radio_WCMGIZMUCS" value=""></input> <span>Heparin</span></label><label><input type="radio" autocomplete="off" name="radio_WCMGIZMUCS" value=""></input> <span>Glycogen</span></label></div>
 
 
 4. Absorption of glucose at the apical (luminal) side of the enterocyte is through
 
 
-<div class='webex-radiogroup' id='radio_PLDMNPIVHK'><label><input type="radio" autocomplete="off" name="radio_PLDMNPIVHK" value=""></input> <span>Primary active transport</span></label><label><input type="radio" autocomplete="off" name="radio_PLDMNPIVHK" value=""></input> <span>Passive diffusion</span></label><label><input type="radio" autocomplete="off" name="radio_PLDMNPIVHK" value="answer"></input> <span>Secondary active transport</span></label><label><input type="radio" autocomplete="off" name="radio_PLDMNPIVHK" value=""></input> <span>Faciliated diffusion</span></label></div>
+<div class='webex-radiogroup' id='radio_QCJMMJTHQB'><label><input type="radio" autocomplete="off" name="radio_QCJMMJTHQB" value=""></input> <span>Primary active transport</span></label><label><input type="radio" autocomplete="off" name="radio_QCJMMJTHQB" value=""></input> <span>Passive diffusion</span></label><label><input type="radio" autocomplete="off" name="radio_QCJMMJTHQB" value="answer"></input> <span>Secondary active transport</span></label><label><input type="radio" autocomplete="off" name="radio_QCJMMJTHQB" value=""></input> <span>Faciliated diffusion</span></label></div>
 
 
 

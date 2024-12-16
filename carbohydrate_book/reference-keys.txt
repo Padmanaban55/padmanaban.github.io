@@ -88,6 +88,7 @@ reducing-hydrogen-peroxide
 generation-of-reactive-oxygen-species-during-phagocytosis
 g6pd-deficiency
 clinical-manifestations-of-g6pd-deficiency
+practice-exercises-6
 fructose-metabolism
 fructose-metabolism-through-hexokinase
 fructose-metabolism-through-fructokinase-and-aldolase-b
@@ -100,3 +101,4 @@ metabolism-of-galactose
 disorders-of-galactose-metabolism
 galactokinase-deficiency
 classical-galactosemia
+practice-exercises-7
